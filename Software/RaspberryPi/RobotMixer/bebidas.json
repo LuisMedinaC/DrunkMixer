@@ -1,0 +1,229 @@
+{
+    "bebidas": [
+        {
+            "id": 0,
+            "nombre": "Paloma",
+            "descripcion": "No usamos palomas de verdad jajaja saludos",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 0,
+                        "nombre": "Toronja",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 1,
+                        "nombre": "Tequila",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "nombre": "Charro Negro",
+            "descripcion": "Persona de color vestida de mariachi",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 2,
+                        "nombre": "Coca",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 1,
+                        "nombre": "Tequila",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Paloma Fit",
+            "descripcion": "Paloma que come pura tortilla integral",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 3,
+                        "nombre": "Sprite",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 1,
+                        "nombre": "Tequila",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Vodka Limon",
+            "descripcion": "Paloma rusa que anda de visita",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 3,
+                        "nombre": "Sprite",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 4,
+                        "nombre": "Vodka",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "VodkaT",
+            "descripcion": "Ponle raspberry y luego nos juzgas",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 0,
+                        "nombre": "Toronja",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 4,
+                        "nombre": "Vodka",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "VodkaC",
+            "descripcion": "Ponle de vainilla y luego nos juzgas",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 2,
+                        "nombre": "Coca",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 4,
+                        "nombre": "Vodka",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "Cuba",
+            "descripcion": "Pero sin comunismo",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 2,
+                        "nombre": "Coca",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 5,
+                        "nombre": "Ron",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nombre": "Ron Limon",
+            "descripcion": "Del que provocó la pandemia pero con limoncito",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 3,
+                        "nombre": "Sprite",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 5,
+                        "nombre": "Ron",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nombre": "RonT",
+            "descripcion": "Para los aferrados de la fiesta",
+            "ingredientes": [
+                {
+                    "cantidad_en_ml": 100,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 0,
+                        "nombre": "Toronja",
+                        "tiene_alcohol": false
+                      }
+                },
+                {
+                    "cantidad_en_ml": 40,
+                    "materia_prima":
+                      {
+                        "materia_prima_id": 5,
+                        "nombre": "Ron",
+                        "tiene_alcohol": true
+                      }
+                }
+            ]
+        }
+    ]
+}
